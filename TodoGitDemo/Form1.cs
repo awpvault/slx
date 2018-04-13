@@ -21,5 +21,10 @@ namespace TodoGitDemo
         {
             MessageBox.Show("Hello Dude");
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Hello Dude 2");
+        }
     }
 }
