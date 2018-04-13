@@ -1,0 +1,10 @@
+C:\Users\angga\OneDrive\Documents\Visual Studio 2017\Projects\TodoGitDemo\TodoGitDemo\bin\Debug\TodoGitDemo.exe.config
+C:\Users\angga\OneDrive\Documents\Visual Studio 2017\Projects\TodoGitDemo\TodoGitDemo\bin\Debug\TodoGitDemo.exe
+C:\Users\angga\OneDrive\Documents\Visual Studio 2017\Projects\TodoGitDemo\TodoGitDemo\bin\Debug\TodoGitDemo.pdb
+C:\Users\angga\OneDrive\Documents\Visual Studio 2017\Projects\TodoGitDemo\TodoGitDemo\obj\Debug\TodoGitDemo.csprojResolveAssemblyReference.cache
+C:\Users\angga\OneDrive\Documents\Visual Studio 2017\Projects\TodoGitDemo\TodoGitDemo\obj\Debug\TodoGitDemo.Form1.resources
+C:\Users\angga\OneDrive\Documents\Visual Studio 2017\Projects\TodoGitDemo\TodoGitDemo\obj\Debug\TodoGitDemo.Properties.Resources.resources
+C:\Users\angga\OneDrive\Documents\Visual Studio 2017\Projects\TodoGitDemo\TodoGitDemo\obj\Debug\TodoGitDemo.csproj.GenerateResource.cache
+C:\Users\angga\OneDrive\Documents\Visual Studio 2017\Projects\TodoGitDemo\TodoGitDemo\obj\Debug\TodoGitDemo.csproj.CoreCompileInputs.cache
+C:\Users\angga\OneDrive\Documents\Visual Studio 2017\Projects\TodoGitDemo\TodoGitDemo\obj\Debug\TodoGitDemo.exe
+C:\Users\angga\OneDrive\Documents\Visual Studio 2017\Projects\TodoGitDemo\TodoGitDemo\obj\Debug\TodoGitDemo.pdb
